@@ -76,15 +76,10 @@ public class MainActivity extends Activity {
                     layout.invalidate();
                     break;
 
-
             }
 
         }
 
-
     }
-
-
-
 
 }
